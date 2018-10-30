@@ -25,6 +25,8 @@ public class String_manipulartor {
 		
 		/**
 		*Main starting code
+		*
+		*Info of word created and stored
 		*/
 		
 		System.out.println("\nThe first and last letters of your world is " + FirChar + " and " + LasChar);
@@ -32,6 +34,8 @@ public class String_manipulartor {
 		
 		/**
 		*First part
+		*
+		*length of word, first and seconds letter of word
 		*/
 		
 		
@@ -43,6 +47,8 @@ public class String_manipulartor {
 		
 		/**
 		*Second part
+		*
+		*location of specific letter and location
 		*/
 		
 		System.out.println("\nPLease enter a starting index");
@@ -55,13 +61,16 @@ public class String_manipulartor {
 		
 		/**
 		*Last part
+		*
+		*index created by user 
 		*/
 		
 		System.out.println("\nEnd");
 		
+		/**
+		*End
+		*/
 		
-		
-
 	}
 
 }
